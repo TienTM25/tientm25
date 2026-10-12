@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm a Developer 👋
 
-<!--
-**TienTM25/tientm25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+- 🌱 Growing my skills in **full-stack web development**
+- ☁️ Currently learning **AWS and cloud technologies**
+- 🔍 Always curious about how things work and how to build better solutions
+- 🌐 Comfortable communicating in **English and Japanese**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+
+- Building practical web applications
+- Strengthening my frontend and backend skills
+- Exploring cloud architecture and AWS services
+
+### 📚 Currently Learning
+
+- Full-stack web development
+- AWS cloud technologies
+
+---
+
+*Always learning, building, and improving.*
